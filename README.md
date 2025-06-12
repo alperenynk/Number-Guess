@@ -1,8 +1,9 @@
-🎯 Number Guessing Game
+# 🎯 Number Guessing Game
 
 A simple console-based number guessing game written in Java. Try to guess the number the computer picks between 1 and 100 — you have only 10 tries! 🧠
 
-🎮 How to Play
+## 🎮 How to Play
+
 - Run the game in your terminal.
 - Enter your name when prompted.
 - Guess a number between 1 and 100.
@@ -13,7 +14,8 @@ A simple console-based number guessing game written in Java. Try to guess the nu
 - If you guess correctly, your score is calculated based on how many attempts you used.
 - After the game, choose whether to play again or quit.
 
-💡 Features
+## 💡 Features
+
 - Console-based user interface
 - Input validation (only numbers between 1-100 are accepted)
 - Limited number of attempts (10 tries)
