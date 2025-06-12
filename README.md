@@ -25,6 +25,7 @@ A simple console-based number guessing game written in Java. Try to guess the nu
 - Emoji-enhanced feedback for a better experience
 
 📌 Example Output
+```
 👤 Enter your name: Alperen
 🎲 Welcome, Alperen! Let's Play Number Guess! 🎲
 💡 You have 10 chances. Good Luck!
@@ -43,3 +44,4 @@ A simple console-based number guessing game written in Java. Try to guess the nu
 🏆 Score: 80 points
 
 🔁 Do you want to play again? (y/n):
+```
