@@ -24,7 +24,8 @@ A simple console-based number guessing game written in Java. Try to guess the nu
 - Replay option after each round
 - Emoji-enhanced feedback for a better experience
 
-📌 Example Output
+## 📌 Example Output
+
 ```
 👤 Enter your name: Alperen
 🎲 Welcome, Alperen! Let's Play Number Guess! 🎲
